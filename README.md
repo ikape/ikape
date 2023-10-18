@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**ikape/ikape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Isaac Ikape,
+I'm a MERN stack developer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Frame eye TV web application.
+- 🌱 I’m currently learning Sever side scripting with Node JS.
+- 👯 I’m looking to collaborate on any project that will give me an experience/growth.
+- 🤔 I’m looking for help on how to become a better developer.
+- 💬 Ask me about anything with want to know.
+- 📫 How to reach me: +2347036503218 & ikapeisaac3@gmail.com
+- 😄 Pronouns: Isaac is fine by me.
+- ⚡ Fun fact: I like interactions and getting to know people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
