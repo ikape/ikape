@@ -9,6 +9,5 @@ MERN stack developer.
 - 🤔 I’m looking for help on how to become a better developer.
 - 💬 Ask me about anything you want to know.
 - 📫 How to reach me: +2347036503218 & ikapeisaac3@gmail.com
-- 😄 Pronouns: Isaac is fine by me.
 - ⚡ Fun fact: I like interactions and getting to know people.
 
