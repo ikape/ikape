@@ -3,7 +3,7 @@ Hi there 👋
 I'm Isaac Ikape,
 MERN stack developer.
 
-- 🔭 I’m currently working on Frame eye TV web application.
+- 🔭 I’m currently working on Frame eye TV web application and many more I can't mention here🤔
 - 🌱 I’m currently learning Sever side scripting with Node JS.
 - 👯 I’m looking to collaborate on any project that will give me an experience/growth.
 - 🤔 I’m looking for help on how to become a better developer.
