@@ -1,7 +1,7 @@
 Hi there 👋
 
 I'm Isaac Ikape,
-Software Engineer.
+Software Developer.
 
 - 🔭 I’m currently working on Frame eye TV and many more I can't mention here🤔
 - 🌱 I’m currently learning Sever side scripting with Node JS...
