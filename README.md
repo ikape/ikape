@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Adebanjo Mary (Ademary)
+# 👋 Hi, I'm Ikape Isaac
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaempy&label=Profile%20views&color=0e75b6&style=flat" alt="kaempy" /> </p>
 
-### Senior Frontend Engineer | React | React Native | AWS Cloud Practitioner | Web3 Enthusiast
+### Software Engineer | React | React Native | AWS Cloud Practitioner | Node JS, 
 
-I'm a passionate Frontend Engineer with expertise in building high-quality web and mobile applications using **React** and **React Native**. I thrive on creating user-centric, performant, and scalable applications that meet modern standards. My experience spans a range of frontend technologies, with a focus on performance optimization and seamless user experiences.
+A results-driven Front-End developer with over 3 years of experience building iOS, Android, and web applications. Proven ability to drive impactful improvements in user engagement, app performance, and team collaboration. Key projects include Amsos, Niteon, Africartz, and Codemaniac. Adept at delivering seamless, user-centric solutions through strong front-end design and robust back-end logic.
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -51,47 +51,14 @@ I'm a passionate Frontend Engineer with expertise in building high-quality web a
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 
-## <!--
 
-## 🚀 Projects
 
-### 📱 **Truman Gym App**
 
-A gym management system built with **React Native** and **Expo**, featuring secure payment integration with Paystack, user authentication, and API handling with **React Hook Form** and **Yup**.
 
-- **Technologies**: React Native, Expo, TypeScript, React Hook Form, Paystack API, Async Storage
-- [GitHub Repo](https://github.com/Kaempy/truman-gym)
 
-### 💻 **iRecharge Mobile App**
 
-Contributed to the **iRecharge** mobile app by improving user experience and performance. Implemented secure payment features and optimized app performance for better load times and responsiveness.
 
-- **Technologies**: React Native, Redux, TypeScript, Paystack, Expo
-- [GitHub Repo](https://github.com/Kaempy/iRecharge)
 
-### 📹 **Video Post App**
-
-Built a video post app where users can log in, view recent posts, save posts, and create new posts, using **Appwrite** for backend services.
-
-- **Technologies**: React Native, Appwrite, Redux Toolkit, Expo
-- [GitHub Repo](https://github.com/Kaempy/video-post-app)
-
----
-
--->
-
-## 🌱 Currently Learning
-
-- **Blockchain Development** with a focus on integrating Web3 technologies into modern frontend applications.
-- Exploring **React Native performance optimization** for high-traffic mobile apps.
-- **AWS Cloud Technologies** to enhance cloud-native application development and deployment.
-
-## 📫 Let's Connect
-
-- [![LinkedIn Badge](https://img.shields.io/badge/-adebanjomary-%23007ACC?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abolanle-mary-adebanjo)
-- [![Twitter Badge](https://img.shields.io/badge/-ademarymi-%23121011?style=flat&logo=X&logoColor=white)](https://x.com/ademarymi)
-- 📧 Email: campa.banj@gmail.com
-- 🌐 [Portfolio](https://ademary-portfolio.vercel.app)
 
 ---
 
