@@ -10,7 +10,7 @@ A results-driven Front-End developer with over 3 years of experience building iO
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Golang](https://img.shields.io/badge/golang-%23007ACC.svg?style=flat&logo=golang&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-%23007ACC.svg?style=flat&logo=Golang&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23007ACC.svg?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
