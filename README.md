@@ -26,6 +26,7 @@ A results-driven Front-End developer with over 3 years of experience building iO
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![Appwrite](https://img.shields.io/badge/appwrite-%23F02E65.svg?style=flat&logo=appwrite&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-%2320232a.svg?style=flat&logo=expo&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 
 ### Backend:
 
