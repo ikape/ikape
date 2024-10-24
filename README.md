@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ikape Isaac
 
 
-### Software Engineer | React | React Native | AWS Cloud Practitioner | Node JS, 
+### Software Engineer | React | React Native | Node JS, 
 
 A results-driven Front-End developer with over 3 years of experience building iOS, Android, and web applications. Proven ability to drive impactful improvements in user engagement, app performance, and team collaboration. Key projects include Amsos, Niteon, Africartz, and Codemaniac. Adept at delivering seamless, user-centric solutions through strong front-end design and robust back-end logic.
 
