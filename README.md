@@ -31,8 +31,6 @@ A results-driven Front-End developer with over 3 years of experience building iO
 ### Backend:
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Apollo Server](https://img.shields.io/badge/apollo_server-311C87?style=flat&logo=apollo-graphql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-E10098?style=flat&logo=graphql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
