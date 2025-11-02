@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ikape Isaac
 
 
-### Software Engineer || Frontend Engineer ||Backend Engineer || Mobile Engineer 
+### Software Engineer || Frontend Engineer || Backend Engineer || Mobile Engineer 
 
 Results-oriented Backend-Focused Full Stack Engineer and IT Specialist with 3+ years of hands-on experience
 designing, developing, and deploying scalable Node.js, NestJS, and TypeScript applications. Proven track record
