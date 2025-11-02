@@ -1,7 +1,8 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Ikape%20Isaac&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="dark header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Ikape%20Isaac&fontSize=40&fontColor=ffffff&animation=twinkling" alt="black header banner" />
 </p>
+
 
 
 <h2 align="center">👋 Hi, I'm <span style="color:#4F46E5">Ikape Isaac</span></h2>
