@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Ikape Isaac
 
 
-### Software Engineer | React | React Native | Node JS, 
+### Software Engineer | Frontend Engineer | Backend Engineer | Mobile Engineer 
 
-A results-driven Front-End developer with over 3 years of experience building iOS, Android, and web applications. Proven ability to drive impactful improvements in user engagement, app performance, and team collaboration. Key projects include Amsos, Niteon, Africartz, and Codemaniac. Adept at delivering seamless, user-centric solutions through strong front-end design and robust back-end logic.
+Results-oriented Backend-Focused Full Stack Engineer and IT Specialist with 3+ years of hands-on experience
+designing, developing, and deploying scalable Node.js, NestJS, and TypeScript applications. Proven track record
+building robust backend architectures, API-driven systems, and reliable messaging pipelines. Skilled in developing
+microservices, managing queues, retries, and background workers, and implementing billing, monitoring, and
+CI/CD pipelines for production-ready environments across e-commerce, B2B, and fintech sectors.
 
 
 ## 🛠️ Tech Stack & Tools
