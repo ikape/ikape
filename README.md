@@ -8,17 +8,18 @@
 <h2 align="center">👋 Hi, I'm <span style="color:#4F46E5">Ikape Isaac</span></h2>
 
 <p align="center">
-  💻 <b>Backend Engineer</b> | 🌐 <b>Full Stack Developer</b> | 📱 <b>Mobile Engineer</b><br />
-  <i>Building reliable systems, scalable APIs, and impactful digital experiences.</i>
+  🎨 <b>Frontend Engineer</b> | ⚛️ <b>React / React Native Developer</b> | 🌐 <b>Full Stack (Frontend-Heavy)</b><br />
+  <i>Creating fast, accessible, and beautifully crafted user experiences.</i>
 </p>
 
 ---
 
 ## 🧠 About Me
 <p align="center">
-I'm a <b>Backend-Focused Full Stack Engineer</b> and <b>IT Specialist</b> with over <b>3 years</b> of experience designing, developing, and deploying scalable systems using <b>Node.js</b>, <b>NestJS</b>, and <b>TypeScript</b>.<br><br>
-I’ve delivered production-ready solutions across <b>Fintech</b>, <b>B2B</b>, and <b>E-commerce</b> industries — building microservices, background workers, billing systems, and CI/CD pipelines with a focus on reliability and performance.
+I'm a <b>Frontend-Focused Software Engineer</b> with over <b>3 years</b> of experience building responsive interfaces, interactive mobile apps, and high-performance web applications using <b>React</b>, <b>Next.js</b>, <b>React Native</b>, and <b>TypeScript</b>.<br><br>
+I’ve delivered production-ready products across <b>E-commerce</b>, <b>B2B</b>, <b>Real Estate</b>, and <b>Tech SaaS</b> — building reusable UI components, seamless user journeys, scalable frontend architectures, and efficient state management with <b>Redux</b>, <b>Zustand</b>, and <b>Context API</b>.
 </p>
+
 
 ---
 
