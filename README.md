@@ -14,7 +14,7 @@
 
 ---
 
-## About Me
+## About Me.
 <p align="center">
 I'm a <b>Frontend-Focused Software Engineer</b> with over <b>3 years</b> of experience building responsive interfaces, interactive mobile apps, and high-performance web applications using <b>React</b>, <b>Next.js</b>, <b>React Native</b>, and <b>TypeScript</b>.<br><br>
 I’ve delivered production-ready products across <b>E-commerce</b>, <b>B2B</b>, <b>Real Estate</b>, and <b>Tech SaaS</b> — building reusable UI components, seamless user journeys, scalable frontend architectures, and efficient state management with <b>Redux</b>, <b>Zustand</b>, and <b>Context API</b>.
@@ -23,11 +23,11 @@ I’ve delivered production-ready products across <b>E-commerce</b>, <b>B2B</b>,
 
 ---
 
-## Tech Stack & Tools
+## Tech Stack & Tools.
 
 <p align="center">
 
-###  Languages & Frameworks  
+###  Languages & Frameworks . 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
