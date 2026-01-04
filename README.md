@@ -9,7 +9,7 @@
 
 <p align="center">
    <b>Frontend Engineer</b> |  <b>React / React Native Developer</b> |  <b>Full Stack (Frontend-Heavy)</b><br />
-  <i>Creating fast, accessible, and beautifully crafted user experiences.</i>
+  <i>Creating fast, accessible, and beautifully crafted user experiences...</i>
 </p>
 
 ---
