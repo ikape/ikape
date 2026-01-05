@@ -9,7 +9,8 @@
 
 <p align="center">
    <b>Frontend Engineer</b> |  <b>React / React Native Developer</b> |  <b>Full Stack (Frontend-Heavy)</b><br />
-  <i>Creating fast, accessible, and beautifully crafted user experiences...</i>
+  <i>Creating fast, accessible, and beautifully crafted user experiences...</i><br />
+  <i>Passionate about clean code and best practices</i>
 </p>
 
 ---
@@ -107,6 +108,7 @@ Enterprise-level web solutions with modern tech stacks.
 -  **Diploma in Full Stack Web Development** – Seedbuilders  
 -  **Secure Coding & Secure Application Development**  
 -  **AWS Cloud Practitioner (In View)**  
+-  **Continuous Learning & Professional Development**  
 
 ---
 
