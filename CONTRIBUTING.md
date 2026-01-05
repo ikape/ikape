@@ -20,6 +20,13 @@ Thank you for taking the time to contribute to this project!
 3. **Describe your changes** - Provide a clear description of what you changed and why
 
 ## Guidelines
+- Fork the repository
+- Create a feature branch
+- Open a pull request
+
+## Code Style
+- Follow existing code conventions
+- Ensure code is readable and well-commented
 - Write clear, descriptive commit messages
 - Keep PRs focused on a single feature or fix
 - Test your changes before submitting
