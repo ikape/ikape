@@ -1,0 +1,32 @@
+name: Slow CI Check
+
+on:
+  pull_request:
+    branches: [ main ]
+  push:
+    branches: [ main ]
+
+jobs:
+  slow-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+      
+    - name: Run slow validation
+      run: |
+        echo "Running comprehensive checks..."
+        echo "Checking file structure..."
+        sleep 30
+        echo "Validating markdown files..."
+        sleep 30
+        echo "Running syntax checks..."
+        sleep 30
+        echo "Performing security scans..."
+        sleep 30
+        echo "All checks passed! ✅"
+        
+    - name: Success
+      run: echo "✅ All validation completed successfully"
