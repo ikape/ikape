@@ -5,6 +5,7 @@
 
 
 
+
 <h2 align="center"> Hi, I'm <span style="color:#4F46E5">Ikape Isaac</span></h2>
 
 <p align="center">
@@ -141,3 +142,5 @@ Enterprise-level web solutions with modern tech stacks.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:007ACC&height=120&section=footer" />
 </p>
+
+<!-- Updated profile -->
