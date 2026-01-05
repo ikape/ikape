@@ -107,6 +107,7 @@ Enterprise-level web solutions with modern tech stacks.
 -  **Diploma in Full Stack Web Development** – Seedbuilders  
 -  **Secure Coding & Secure Application Development**  
 -  **AWS Cloud Practitioner (In View)**  
+-  **Continuous Learning & Professional Development**  
 
 ---
 
