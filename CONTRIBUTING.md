@@ -33,3 +33,5 @@ Thank you for taking the time to contribute to this project!
 - Be respectful and constructive in discussions
 
 Thank you for contributing! 🚀
+
+- Test your changes thoroughly before submitting
