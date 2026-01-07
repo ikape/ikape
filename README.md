@@ -9,7 +9,7 @@
 <h2 align="center"> Hi, I'm <span style="color:#4F46E5">Ikape Isaac</span></h2>
 
 <p align="center">
-   <b>Frontend Engineer</b> |  <b>React / React Native Developer</b> |  <b>Full Stack (Frontend-Heavy)</b><br />
+   <b>Frontend Engineer</b> | <b>React / React Native Developer</b> | <b>Full Stack (Frontend-Heavy)</b><br />
   <i>Creating fast, accessible, and beautifully crafted user experiences...</i><br />
   <i>Passionate about clean code and best practices</i>
 </p>
@@ -29,7 +29,7 @@ I’ve delivered production-ready products across <b>E-commerce</b>, <b>B2B</b>,
 
 <p align="center">
 
-###  Languages & Frameworks . 
+###  Languages & Frameworks. 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -41,7 +41,7 @@ I’ve delivered production-ready products across <b>E-commerce</b>, <b>B2B</b>,
 
 ---
 
-### Databases & ORMs  
+### Databases & ORMs 
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=flat&logo=prisma&logoColor=white)
@@ -49,7 +49,7 @@ I’ve delivered production-ready products across <b>E-commerce</b>, <b>B2B</b>,
 
 ---
 
-### Cloud & DevOps  
+### Cloud & DevOps 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
@@ -60,7 +60,7 @@ I’ve delivered production-ready products across <b>E-commerce</b>, <b>B2B</b>,
 
 ---
 
-### CI/CD & Tools  
+### CI/CD & Tools 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=flat&logo=swagger&logoColor=black)
@@ -87,39 +87,39 @@ I’ve delivered production-ready products across <b>E-commerce</b>, <b>B2B</b>,
 
 ## Featured Projects
 
-🔹 **[Afribooking Agent App](https://apps.apple.com/ng/app/afribooking/id6745455021)**  
-*React Native, Node.js, MongoDB, AWS, Docker*  
+🔹 **[Afribooking Agent App](https://apps.apple.com/ng/app/afribooking/id6745455021)** 
+*React Native, Node.js, MongoDB, AWS, Docker* 
 Manage property bookings, inspections, and payments.
 
-🔹 **[Africartz User App](https://apps.apple.com/ng/app/africartz-store/id6476979170)**  
-*React Native, TypeScript, Laravel, Tailwind CSS*  
+🔹 **[Africartz User App](https://apps.apple.com/ng/app/africartz-store/id6476979170)** 
+*React Native, TypeScript, Laravel, Tailwind CSS* 
 Cross-platform reservation and booking system.
 
-🔹 **[Niteon B2B Marketplace](https://niteon.co/)**  
-*Next.js, Redux, Tailwind, Node.js, AWS*  
+🔹 **[Niteon B2B Marketplace](https://niteon.co/)** 
+*Next.js, Redux, Tailwind, Node.js, AWS* 
 Connects African businesses with international buyers.
 
-🔹 **[Glumia Solutions Platform](https://glumia.ng/we-are-1)**  
-*React.js, Next.js, PostgreSQL, AWS, Firebase*  
+🔹 **[Glumia Solutions Platform](https://glumia.ng/we-are-1)** 
+*React.js, Next.js, PostgreSQL, AWS, Firebase* 
 Enterprise-level web solutions with modern tech stacks.
 
 ---
 
 ## 🧾 Certifications
--  **Diploma in Full Stack Web Development** – Seedbuilders  
--  **Secure Coding & Secure Application Development**  
--  **AWS Cloud Practitioner (In View)**  
--  **Continuous Learning & Professional Development**  
+- **Diploma in Full Stack Web Development** – Seedbuilders 
+- **Secure Coding & Secure Application Development** 
+- **AWS Cloud Practitioner (In View)** 
+- **Continuous Learning & Professional Development** 
 
 ---
 
-##  Education
- **B.Tech, Estate Management & Valuation** – *Federal University of Technology, Minna*  
- **NYSC:** *Energy Commission of Nigeria (Abuja)* — *IT Support Specialist*  
+## Education
+ **B.Tech, Estate Management & Valuation** – *Federal University of Technology, Minna* 
+ **NYSC:** *Energy Commission of Nigeria (Abuja)* — *IT Support Specialist* 
 
 ---
 
-##  GitHub Stats  
+## GitHub Stats 
 
 <p align="center">
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=ikape&theme=tokyonight&hide_border=true" />
@@ -128,7 +128,7 @@ Enterprise-level web solutions with modern tech stacks.
 
 ---
 
-## Connect with Me  
+## Connect with Me 
 
 <p align="center">
   <a href="mailto:ikapeisaac3@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
