@@ -149,6 +149,12 @@ Enterprise-level web solutions with modern tech stacks.
 
 ---
 
+## Weekly Coding Focus
+
+> *"First, solve the problem. Then, write the code." — John Johnson*
+
+---
+
 ## Currently Learning
 
 <p align="center">
