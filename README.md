@@ -20,6 +20,15 @@
 
 ---
 
+## Open to Work
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-%234F46E5?style=for-the-badge&logo=handshake&logoColor=white" alt="open to work"/>
+  <img src="https://img.shields.io/badge/Type-Full%20Time%20%7C%20Contract-%23007ACC?style=for-the-badge" alt="work type"/>
+</p>
+
+---
+
 ## About Me.
 <p align="center">
 I'm a <b>Frontend-Focused Software Engineer</b> with over <b>3 years</b> of experience building responsive interfaces, interactive mobile apps, and high-performance web applications using <b>React</b>, <b>Next.js</b>, <b>React Native</b>, and <b>TypeScript</b>.<br><br>
