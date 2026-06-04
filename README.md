@@ -171,6 +171,7 @@ Enterprise-level web solutions with modern tech stacks.
   <a href="mailto:ikapeisaac3@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/ikape"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/ikape"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://x.com/ikape_dev"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.valuepayng.com"><img src="https://img.shields.io/badge/Portfolio-%234F46E5.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
