@@ -156,6 +156,15 @@ Enterprise-level web solutions with modern tech stacks.
 
 ---
 
+## Fun Facts
+
+- Built my first app before finishing my degree in Estate Management
+- I debug best with lo-fi music in the background
+- Believer in shipping fast and iterating — done beats perfect
+- Side quest: learning Rust to understand what "memory safe" really means
+
+---
+
 ## Connect with Me  
 
 <p align="center">
