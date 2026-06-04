@@ -140,6 +140,10 @@ Enterprise-level web solutions with modern tech stacks.
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikape&theme=tokyo-night&hide_border=true" alt="activity graph" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ikape&theme=tokyonight&no-frame=true&row=1&column=6" alt="ikape trophies" />
 </p>
 
