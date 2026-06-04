@@ -128,6 +128,17 @@ Enterprise-level web solutions with modern tech stacks.
 
 ---
 
+## Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Design-%234F46E5.svg?style=flat&logo=blueprint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&logoColor=white"/>
+</p>
+
+---
+
 ## Connect with Me  
 
 <p align="center">
