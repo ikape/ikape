@@ -130,6 +130,10 @@ Enterprise-level web solutions with modern tech stacks.
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikape&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ikape&theme=tokyonight&no-frame=true&row=1&column=6" alt="ikape trophies" />
+</p>
+
 ---
 
 ## Currently Learning
