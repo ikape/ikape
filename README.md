@@ -9,6 +9,10 @@
 <h2 align="center"> Hi, I'm <span style="color:#4F46E5">Ikape Isaac</span></h2>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ikape&label=Profile%20Views&color=4F46E5&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
    <b>Frontend Engineer</b> |  <b>React / React Native Developer</b> |  <b>Full Stack (Frontend-Heavy)</b><br />
   <i>Creating fast, accessible, and beautifully crafted user experiences...</i><br />
   <i>Passionate about clean code and best practices</i>
